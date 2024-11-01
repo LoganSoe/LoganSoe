@@ -1,0 +1,2 @@
+-Hi, I'm Logan!
+-I am currently studying front-end web development.
